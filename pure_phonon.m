@@ -1,4 +1,5 @@
-% QMC for electron-phonon coupling
+% QMC for electron-phonon coupling, this program is for demo and only
+% include phonon part
 clear;
 tic;
 
